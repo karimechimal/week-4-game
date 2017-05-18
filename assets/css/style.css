@@ -1,0 +1,64 @@
+
+body{
+	background-image: url('https://cdn6.bigcommerce.com/s-9sf3i6p/product_images/uploaded_images/galaxy.jpg?t=1457808323')
+}
+
+
+#jumbotron{
+	margin-left: 500px;
+	margin-right:700px;
+	background-color:#FF1493;
+	color:white;
+	text-align:center;
+	clear:both;
+}
+
+#instructions {
+	margin-left: 450px;
+	background-color:#8A2BE2;
+	color:#5F9860;
+	text-align:left;
+	margin-top: 25px;
+	padding-bottom: 40px;
+	padding-top: 15px;
+	margin-right:500px;
+
+}
+#toguess{
+	background-color: #FFFAF0;
+	height:175px;
+	margin-top: 15px;
+	margin-left: 150px;
+}
+#winloss{
+	background-color: #FF00FF;
+	height:100px;
+	margin-left:500px;
+	margin-right: 1000px
+	
+
+}
+#one{
+	height:100px;
+	margin-top: 25px;
+	margin-left: 100px; 
+}
+
+#two{
+	height:100px;
+	margin-top: 25px;
+}
+#three{
+	height:100px;
+	margin-top: 25px;
+}
+#four{
+	height:100px;
+	margin-top: 25px;
+}
+#yourscore{
+	background-color:#7FFF00;
+	margin-left:500px;
+	
+}
+
